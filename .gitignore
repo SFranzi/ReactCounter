@@ -1,0 +1,13 @@
+/node_modules
+/public
+package-lock.json
+package.json
+/src/App.css 
+/src/App.test.json
+/src/index.css
+/src/logo.svg
+/src/serviceWorker.js
+
+
+
+
